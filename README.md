@@ -39,5 +39,16 @@ You can see the screenshots of the project :arrow_forward:
 - Filter out as per requirement :moneybag:
 - Reviews and Ratings :star:
 
+## Database Setup :floppy_disk:
 
+The project uses a MySQL database. You can find the SQL schema in the `database` directory. Import this schema into your database server to set up the required tables.
 
+## Getting Started :rocket:
+
+To get a copy of the project up and running on your local machine, follow these steps:
+
+1. Clone the repository:
+2. Configure your web server (e.g., Apache) and database server (e.g., MySQL) to host the project.
+3. Import the provided SQL database schema to set up the required database tables.
+4. Modify the `config.php` file to set your database credentials.
+5. Open the project in your web browser to start using the Home Rental Website.
